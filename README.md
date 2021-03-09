@@ -1,5 +1,5 @@
 # Pokemon Scraper
-
+Walkthrough:  https://www.youtube.com/watch?v=PxdRwdJN5hI
 ## Objectives
 
 - Set up a `SQLite` database
